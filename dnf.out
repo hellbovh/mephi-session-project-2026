@@ -1,0 +1,12 @@
+Иденти | Командная строка                                  | Дата и время     | Действия       | Изменен
+--------------------------------------------------------------------------------------------------------
+    10 | reinstall chromium                                | 2026-10-02 20:17 | R              |    2  <
+     9 | install -y nginx libcap-ng-utils                  | 2026-10-02 19:15 | Install        |    5 > 
+     8 | update -y                                         | 2026-10-02 18:58 | I, O, U        |  277 EE
+     7 |                                                   | 2026-10-01 23:45 | Install        |   14 E<
+     6 |                                                   | 2026-10-01 21:39 | Downgrade      |    1 > 
+     5 | install open-vm-tools open-vm-tools-desktop       | 2026-10-01 21:11 | Install        |    1   
+     4 |                                                   | 2026-10-01 20:53 | D, I           |    2  <
+     3 | autoremove -y --setopt=metadata_expire=-1         | 2026-10-01 20:14 | Removed        |    1 ><
+     2 | remove -y --setopt=metadata_expire=-1 virtualbox- | 2026-10-01 20:08 | Removed        |    4 >E
+     1 |                                                   | 2026-10-01 20:01 | Install        | 1922 EE
